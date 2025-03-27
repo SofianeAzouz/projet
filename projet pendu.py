@@ -1,5 +1,5 @@
 import random
-choix = ["gibaud","gorce","nsi","projet","eleve","lycee","maths","python","logiciel"]
+choix = ["nsi","projet","eleve","lycee","maths","python","logiciel"]
 solution = random.choice(choix)
 
 solution = random.choice(choix)
